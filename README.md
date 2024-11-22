@@ -1,5 +1,5 @@
-# this is a playground repository for cohort 5
-
+# this is a playground repository for cohort 5git
+# koko is trying her best to upload
 Session #3: Git & GitHub
 
 Initializing a Repository
